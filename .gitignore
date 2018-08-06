@@ -1,0 +1,10 @@
+\.vs/
+"Debug"
+"Release"
+x86
+x64
+"Lib"
+"Obj"
+*.ipch
+*.vc
+*.db
